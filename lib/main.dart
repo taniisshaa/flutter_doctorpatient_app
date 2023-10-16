@@ -1,4 +1,4 @@
-import 'package:doctorpatientgiy_app/loginpage/Start.dart';
+import 'package:doctorpatient_app/loginpage/Start.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'model/main_layout.dart';
